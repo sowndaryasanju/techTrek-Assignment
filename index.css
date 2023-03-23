@@ -1,0 +1,85 @@
+ul{
+    display: inline;
+    list-style-type: none;
+}
+li{
+    display:inline;
+    padding: 50px;
+    
+}
+li a{
+    color:#ff80aa;
+    text-decoration: none;
+    padding: 30px;
+}
+#logo{
+    display:inline;
+    position: absolute;
+    top:0px;
+}
+nav{
+    position: absolute;
+    top:50px;
+    left : 100px;
+}
+#main{
+    position: absolute;
+    top:150px;
+}
+body{
+    background-color: black;
+}
+footer{
+    color: white;
+    padding-top: 41%;
+}
+h1{
+    color:gold;
+}
+#pemain{
+    padding-top: 120px;
+}
+#pemain h2{
+    color:gold;
+}
+#pemain p{
+    padding-right: 100px;
+    color: white;
+}
+#pemain button{
+    margin-left: 350px;
+    margin-top: 60px;
+    width: 200px;
+    height: 50px;
+    background-color: gold;
+}
+#login{
+    background-color: white;
+    display: block;
+    padding-left: 70px;
+    padding-top: 20px;
+    height: 150px;
+}
+#main{
+    padding-left: 450px; 
+}
+input{
+    display: block;
+}
+#prodmain{
+    color:white;
+    padding-top: 200px;
+}
+#prodmain a{
+    padding: 50px;
+}
+td{
+    font-size: 20px;
+    padding-left: 50px;
+}
+th{
+    color:gold;
+    font-size: 50px;
+    padding-top: 30px;
+    padding-left: 40px;
+}
